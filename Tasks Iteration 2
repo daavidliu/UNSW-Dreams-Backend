@@ -1,0 +1,46 @@
+Iteration 2 Task list
+auth.py
+    auth/login/v2
+    auth/register/v2
+    auth/logout/v1
+channel.py
+    channel/invite/v2
+    channel/details/v2
+    channel/messages/v2
+    channel/join/v2
+    channel/addowner/v1
+    channel/removeowner/v1
+    channel/leave/v1
+channels.py
+    channels/list/v2
+    channels/listall/v2
+    channels/create/v2
+message.py
+    message/send/v2
+    message/edit/v2
+    message/remove/v1
+    message/share/v1
+    message/senddm/v1
+dm (in message file or seperate file?)
+    dm/details/v1
+    dm/list/v1
+    dm/create/v1
+    dm/remove/v1
+    dm/invite/v1
+    dm/leave/v1
+    dm/messages/v1
+user.py
+    user/profile/v2
+    user/profile/setname/v2
+    user/profile/setemail/v2
+    user/profile/sethandle/v1
+other.py
+    search/v2
+    clear/v1
+admin/user/remove/v1
+admin/userpermission/change/v1
+notifications/get/v1
+users/all/v1
+server.py
+    setup routes
+

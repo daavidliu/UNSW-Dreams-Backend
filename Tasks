@@ -1,0 +1,39 @@
+Tasks
+
+One - Snigdha
+        auth_register
+        channel_join 
+    test
+        test_auth_login
+        test_chanel_messages
+        
+    
+two - Sander, 
+        channel_invite
+        channel_details
+    test
+        test_clear
+        test_chanells_create
+
+Three - David
+        clear
+        chanells_create
+    test
+        test_chanells_listall
+        test_chanells_list
+    
+Four - Sanjana
+        auth_login_v1
+        chanel_messages_v1
+    test
+        test_auth_register_v1
+        test_chanel_join_v1
+
+
+Five - Deepu
+        chanells_listall
+        chanells_list
+    test
+        test_chanel_invite
+        test_chanel_details
+
